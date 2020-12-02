@@ -1,3 +1,4 @@
+#!/usr/bin/env bash
 echo "Enter n value:"
 read n
 num=`expr $n % 2`
